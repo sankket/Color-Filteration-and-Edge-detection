@@ -1,3 +1,4 @@
+#Code for accessing the webcam of our system using python script. 
 import cv2
 import matplotlib.pyplot as plt
 #for accessing The Webcam we use Video Capture Function.
